@@ -1,0 +1,2806 @@
+{
+  "schemaVersion": 1,
+  "datasetVersion": "2026-11-01.1",
+  "terms": [
+    {
+      "id": "TP-GEN-001",
+      "legacyId": 1,
+      "en": "Packaging machine",
+      "vi": "Máy đóng gói",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-002",
+      "legacyId": 2,
+      "en": "Filling machine",
+      "vi": "Máy chiết rót",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-003",
+      "legacyId": 3,
+      "en": "Aseptic packaging",
+      "vi": "Đóng gói vô trùng",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-004",
+      "legacyId": 4,
+      "en": "Carton package",
+      "vi": "Bao bì hộp giấy",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-005",
+      "legacyId": 5,
+      "en": "Packaging material",
+      "vi": "Vật liệu bao bì",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-006",
+      "legacyId": 6,
+      "en": "Packaging line",
+      "vi": "Dây chuyền đóng gói",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-007",
+      "legacyId": 7,
+      "en": "Production line",
+      "vi": "Dây chuyền sản xuất",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-008",
+      "legacyId": 8,
+      "en": "Filling station",
+      "vi": "Trạm chiết rót",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-009",
+      "legacyId": 9,
+      "en": "Sterilization",
+      "vi": "Tiệt trùng",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-010",
+      "legacyId": 10,
+      "en": "Disinfection",
+      "vi": "Khử khuẩn",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-011",
+      "legacyId": 11,
+      "en": "Sterile environment",
+      "vi": "Môi trường vô trùng",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-012",
+      "legacyId": 12,
+      "en": "Sterile air",
+      "vi": "Khí vô trùng",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-013",
+      "legacyId": 13,
+      "en": "Product",
+      "vi": "Sản phẩm",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-014",
+      "legacyId": 14,
+      "en": "Raw material",
+      "vi": "Nguyên liệu",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-015",
+      "legacyId": 15,
+      "en": "Milk processing",
+      "vi": "Chế biến sữa",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-016",
+      "legacyId": 16,
+      "en": "Filling volume",
+      "vi": "Thể tích chiết rót",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-017",
+      "legacyId": 17,
+      "en": "Filling capacity",
+      "vi": "Công suất chiết rót",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-018",
+      "legacyId": 18,
+      "en": "Production capacity",
+      "vi": "Năng suất sản xuất",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-019",
+      "legacyId": 19,
+      "en": "Production rate",
+      "vi": "Tốc độ sản xuất",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-020",
+      "legacyId": 20,
+      "en": "Throughput",
+      "vi": "Sản lượng thông qua / năng suất đầu ra",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-021",
+      "legacyId": 21,
+      "en": "Operating condition",
+      "vi": "Điều kiện vận hành",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-022",
+      "legacyId": 22,
+      "en": "Operating mode",
+      "vi": "Chế độ vận hành",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-023",
+      "legacyId": 23,
+      "en": "Automatic mode",
+      "vi": "Chế độ tự động",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-024",
+      "legacyId": 24,
+      "en": "Manual mode",
+      "vi": "Chế độ bằng tay",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-025",
+      "legacyId": 25,
+      "en": "Maintenance mode",
+      "vi": "Chế độ bảo trì",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-026",
+      "legacyId": 26,
+      "en": "Start-up",
+      "vi": "Khởi động máy",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-027",
+      "legacyId": 27,
+      "en": "Shutdown",
+      "vi": "Dừng máy",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-028",
+      "legacyId": 28,
+      "en": "Emergency stop",
+      "vi": "Dừng khẩn cấp",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-029",
+      "legacyId": 29,
+      "en": "Production cycle",
+      "vi": "Chu trình sản xuất",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-030",
+      "legacyId": 30,
+      "en": "Filling cycle",
+      "vi": "Chu trình chiết rót",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-031",
+      "legacyId": 31,
+      "en": "Machine operation",
+      "vi": "Vận hành máy",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-032",
+      "legacyId": 32,
+      "en": "Machine adjustment",
+      "vi": "Điều chỉnh máy",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-033",
+      "legacyId": 33,
+      "en": "Machine setup",
+      "vi": "Thiết lập máy",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-034",
+      "legacyId": 34,
+      "en": "Changeover",
+      "vi": "Chuyển đổi sản phẩm / quy cách",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-035",
+      "legacyId": 35,
+      "en": "Format change",
+      "vi": "Thay đổi định dạng bao bì",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-036",
+      "legacyId": 36,
+      "en": "Package size",
+      "vi": "Kích thước bao bì",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-037",
+      "legacyId": 37,
+      "en": "Package shape",
+      "vi": "Hình dạng bao bì",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-038",
+      "legacyId": 38,
+      "en": "Carton forming",
+      "vi": "Tạo hình hộp giấy",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-039",
+      "legacyId": 39,
+      "en": "Carton sealing",
+      "vi": "Hàn kín hộp giấy",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-040",
+      "legacyId": 40,
+      "en": "Longitudinal sealing",
+      "vi": "Hàn dọc",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-041",
+      "legacyId": 41,
+      "en": "Transversal sealing",
+      "vi": "Hàn ngang",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-042",
+      "legacyId": 42,
+      "en": "Top sealing",
+      "vi": "Hàn phần đỉnh",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-043",
+      "legacyId": 43,
+      "en": "Bottom sealing",
+      "vi": "Hàn đáy",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-044",
+      "legacyId": 44,
+      "en": "Package forming",
+      "vi": "Tạo hình bao bì",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-045",
+      "legacyId": 45,
+      "en": "Package opening",
+      "vi": "Mở bao bì",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-046",
+      "legacyId": 46,
+      "en": "Package folding",
+      "vi": "Gấp bao bì",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-047",
+      "legacyId": 47,
+      "en": "Package cutting",
+      "vi": "Cắt bao bì",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-048",
+      "legacyId": 48,
+      "en": "Package discharge",
+      "vi": "Đưa bao bì ra khỏi máy",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-049",
+      "legacyId": 49,
+      "en": "Conveyor",
+      "vi": "Băng tải",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-050",
+      "legacyId": 50,
+      "en": "Discharge conveyor",
+      "vi": "Băng tải đầu ra",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-051",
+      "legacyId": 51,
+      "en": "Infeed",
+      "vi": "Đầu vào / cấp liệu",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-052",
+      "legacyId": 52,
+      "en": "Outfeed",
+      "vi": "Đầu ra",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-053",
+      "legacyId": 53,
+      "en": "Product inlet",
+      "vi": "Đường cấp sản phẩm",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-054",
+      "legacyId": 54,
+      "en": "Product outlet",
+      "vi": "Đường ra sản phẩm",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-055",
+      "legacyId": 55,
+      "en": "Packaging material reel",
+      "vi": "Cuộn vật liệu bao bì",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-056",
+      "legacyId": 56,
+      "en": "Reel holder",
+      "vi": "Giá đỡ cuộn",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-057",
+      "legacyId": 57,
+      "en": "Splicing",
+      "vi": "Nối cuộn vật liệu",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-058",
+      "legacyId": 58,
+      "en": "Material feeding",
+      "vi": "Cấp vật liệu",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-059",
+      "legacyId": 59,
+      "en": "Material tracking",
+      "vi": "Theo dõi vị trí vật liệu",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-060",
+      "legacyId": 60,
+      "en": "Web tension",
+      "vi": "Lực căng vật liệu dạng cuộn",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-061",
+      "legacyId": 61,
+      "en": "Registration mark",
+      "vi": "Dấu định vị in",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-062",
+      "legacyId": 62,
+      "en": "Printing unit",
+      "vi": "Bộ phận in",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-063",
+      "legacyId": 63,
+      "en": "Date coding",
+      "vi": "In ngày sản xuất",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-064",
+      "legacyId": 64,
+      "en": "Batch number",
+      "vi": "Số lô",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-065",
+      "legacyId": 65,
+      "en": "Expiry date",
+      "vi": "Hạn sử dụng",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-066",
+      "legacyId": 66,
+      "en": "Traceability",
+      "vi": "Khả năng truy xuất nguồn gốc",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-067",
+      "legacyId": 67,
+      "en": "Product quality",
+      "vi": "Chất lượng sản phẩm",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-068",
+      "legacyId": 68,
+      "en": "Quality inspection",
+      "vi": "Kiểm tra chất lượng",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-069",
+      "legacyId": 69,
+      "en": "Leakage test",
+      "vi": "Kiểm tra rò rỉ",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-070",
+      "legacyId": 70,
+      "en": "Seal integrity",
+      "vi": "Độ toàn vẹn mối hàn",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-071",
+      "legacyId": 71,
+      "en": "Package integrity",
+      "vi": "Độ nguyên vẹn bao bì",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-072",
+      "legacyId": 72,
+      "en": "Defective package",
+      "vi": "Bao bì lỗi",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-073",
+      "legacyId": 73,
+      "en": "Reject station",
+      "vi": "Trạm loại bỏ sản phẩm lỗi",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-074",
+      "legacyId": 74,
+      "en": "Rejection system",
+      "vi": "Hệ thống loại bỏ",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-075",
+      "legacyId": 75,
+      "en": "Scrap",
+      "vi": "Phế phẩm",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-076",
+      "legacyId": 76,
+      "en": "Waste material",
+      "vi": "Vật liệu thải",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-077",
+      "legacyId": 77,
+      "en": "Cleaning",
+      "vi": "Vệ sinh",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-078",
+      "legacyId": 78,
+      "en": "Cleaning cycle",
+      "vi": "Chu trình vệ sinh",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-079",
+      "legacyId": 79,
+      "en": "CIP (Cleaning in Place)",
+      "vi": "Vệ sinh tại chỗ",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-080",
+      "legacyId": 80,
+      "en": "SIP (Sterilization in Place)",
+      "vi": "Tiệt trùng tại chỗ",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-081",
+      "legacyId": 81,
+      "en": "Rinsing",
+      "vi": "Tráng / rửa",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-082",
+      "legacyId": 82,
+      "en": "Flushing",
+      "vi": "Xả rửa đường ống",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-083",
+      "legacyId": 83,
+      "en": "Lubrication",
+      "vi": "Bôi trơn",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-084",
+      "legacyId": 84,
+      "en": "Inspection",
+      "vi": "Kiểm tra",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-085",
+      "legacyId": 85,
+      "en": "Preventive maintenance",
+      "vi": "Bảo trì phòng ngừa",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-086",
+      "legacyId": 86,
+      "en": "Corrective maintenance",
+      "vi": "Bảo trì khắc phục",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-087",
+      "legacyId": 87,
+      "en": "Predictive maintenance",
+      "vi": "Bảo trì dự đoán",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-088",
+      "legacyId": 88,
+      "en": "Spare parts",
+      "vi": "Phụ tùng thay thế",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-089",
+      "legacyId": 89,
+      "en": "Consumables",
+      "vi": "Vật tư tiêu hao",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-090",
+      "legacyId": 90,
+      "en": "Downtime",
+      "vi": "Thời gian dừng máy",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-091",
+      "legacyId": 91,
+      "en": "Breakdown",
+      "vi": "Sự cố / hỏng hóc",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-092",
+      "legacyId": 92,
+      "en": "Malfunction",
+      "vi": "Trục trặc",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-093",
+      "legacyId": 93,
+      "en": "Fault",
+      "vi": "Lỗi",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-094",
+      "legacyId": 94,
+      "en": "Troubleshooting",
+      "vi": "Xử lý sự cố",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-095",
+      "legacyId": 95,
+      "en": "Root cause",
+      "vi": "Nguyên nhân gốc rễ",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-096",
+      "legacyId": 96,
+      "en": "Machine availability",
+      "vi": "Độ sẵn sàng của máy",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-097",
+      "legacyId": 97,
+      "en": "Performance",
+      "vi": "Hiệu suất hoạt động",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-098",
+      "legacyId": 98,
+      "en": "OEE (Overall Equipment Effectiveness)",
+      "vi": "Hiệu suất thiết bị tổng thể",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-099",
+      "legacyId": 99,
+      "en": "Operator",
+      "vi": "Người vận hành",
+      "category": "General"
+    },
+    {
+      "id": "TP-GEN-100",
+      "legacyId": 100,
+      "en": "Technician",
+      "vi": "Kỹ thuật viên",
+      "category": "General"
+    },
+    {
+      "id": "TP-MEC-001",
+      "legacyId": 101,
+      "en": "Frame",
+      "vi": "Khung máy",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-002",
+      "legacyId": 102,
+      "en": "Machine housing",
+      "vi": "Vỏ máy",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-003",
+      "legacyId": 103,
+      "en": "Machine base",
+      "vi": "Bệ máy",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-004",
+      "legacyId": 104,
+      "en": "Support bracket",
+      "vi": "Giá đỡ",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-005",
+      "legacyId": 105,
+      "en": "Mounting plate",
+      "vi": "Tấm lắp đặt",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-006",
+      "legacyId": 106,
+      "en": "Shaft",
+      "vi": "Trục",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-007",
+      "legacyId": 107,
+      "en": "Drive shaft",
+      "vi": "Trục dẫn động",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-008",
+      "legacyId": 108,
+      "en": "Driven shaft",
+      "vi": "Trục bị dẫn",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-009",
+      "legacyId": 109,
+      "en": "Bearing",
+      "vi": "Vòng bi",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-010",
+      "legacyId": 110,
+      "en": "Bearing housing",
+      "vi": "Gối đỡ vòng bi",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-011",
+      "legacyId": 111,
+      "en": "Ball bearing",
+      "vi": "Vòng bi cầu",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-012",
+      "legacyId": 112,
+      "en": "Roller bearing",
+      "vi": "Vòng bi đũa",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-013",
+      "legacyId": 113,
+      "en": "Linear bearing",
+      "vi": "Vòng bi tuyến tính",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-014",
+      "legacyId": 114,
+      "en": "Bushing",
+      "vi": "Bạc lót",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-015",
+      "legacyId": 115,
+      "en": "Sleeve",
+      "vi": "Ống lót",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-016",
+      "legacyId": 116,
+      "en": "Coupling",
+      "vi": "Khớp nối",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-017",
+      "legacyId": 117,
+      "en": "Flexible coupling",
+      "vi": "Khớp nối mềm",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-018",
+      "legacyId": 118,
+      "en": "Gear",
+      "vi": "Bánh răng",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-019",
+      "legacyId": 119,
+      "en": "Gearbox",
+      "vi": "Hộp giảm tốc",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-020",
+      "legacyId": 120,
+      "en": "Gear ratio",
+      "vi": "Tỷ số truyền",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-021",
+      "legacyId": 121,
+      "en": "Spur gear",
+      "vi": "Bánh răng trụ răng thẳng",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-022",
+      "legacyId": 122,
+      "en": "Helical gear",
+      "vi": "Bánh răng nghiêng",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-023",
+      "legacyId": 123,
+      "en": "Bevel gear",
+      "vi": "Bánh răng côn",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-024",
+      "legacyId": 124,
+      "en": "Worm gear",
+      "vi": "Bộ truyền trục vít",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-025",
+      "legacyId": 125,
+      "en": "Belt drive",
+      "vi": "Bộ truyền đai",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-026",
+      "legacyId": 126,
+      "en": "Timing belt",
+      "vi": "Đai răng",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-027",
+      "legacyId": 127,
+      "en": "V-belt",
+      "vi": "Đai thang",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-028",
+      "legacyId": 128,
+      "en": "Pulley",
+      "vi": "Puly",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-029",
+      "legacyId": 129,
+      "en": "Sprocket",
+      "vi": "Đĩa xích",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-030",
+      "legacyId": 130,
+      "en": "Chain drive",
+      "vi": "Bộ truyền xích",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-031",
+      "legacyId": 131,
+      "en": "Roller chain",
+      "vi": "Xích con lăn",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-032",
+      "legacyId": 132,
+      "en": "Conveyor roller",
+      "vi": "Con lăn băng tải",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-033",
+      "legacyId": 133,
+      "en": "Guide rail",
+      "vi": "Thanh dẫn hướng",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-034",
+      "legacyId": 134,
+      "en": "Linear guide",
+      "vi": "Ray trượt tuyến tính",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-035",
+      "legacyId": 135,
+      "en": "Slide",
+      "vi": "Bàn trượt",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-036",
+      "legacyId": 136,
+      "en": "Sliding mechanism",
+      "vi": "Cơ cấu trượt",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-037",
+      "legacyId": 137,
+      "en": "Cam",
+      "vi": "Cam",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-038",
+      "legacyId": 138,
+      "en": "Cam follower",
+      "vi": "Con đội cam",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-039",
+      "legacyId": 139,
+      "en": "Crank mechanism",
+      "vi": "Cơ cấu tay quay",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-040",
+      "legacyId": 140,
+      "en": "Linkage",
+      "vi": "Cơ cấu liên kết",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-041",
+      "legacyId": 141,
+      "en": "Connecting rod",
+      "vi": "Thanh truyền",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-042",
+      "legacyId": 142,
+      "en": "Eccentric shaft",
+      "vi": "Trục lệch tâm",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-043",
+      "legacyId": 143,
+      "en": "Spring",
+      "vi": "Lò xo",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-044",
+      "legacyId": 144,
+      "en": "Compression spring",
+      "vi": "Lò xo nén",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-045",
+      "legacyId": 145,
+      "en": "Tension spring",
+      "vi": "Lò xo kéo",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-046",
+      "legacyId": 146,
+      "en": "Torsion spring",
+      "vi": "Lò xo xoắn",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-047",
+      "legacyId": 147,
+      "en": "Shock absorber",
+      "vi": "Bộ giảm chấn",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-048",
+      "legacyId": 148,
+      "en": "Damper",
+      "vi": "Bộ giảm dao động",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-049",
+      "legacyId": 149,
+      "en": "Mechanical stop",
+      "vi": "Cữ chặn cơ khí",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-050",
+      "legacyId": 150,
+      "en": "End stop",
+      "vi": "Cữ chặn cuối hành trình",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-051",
+      "legacyId": 151,
+      "en": "Fastener",
+      "vi": "Chi tiết liên kết",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-052",
+      "legacyId": 152,
+      "en": "Bolt",
+      "vi": "Bu lông",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-053",
+      "legacyId": 153,
+      "en": "Nut",
+      "vi": "Đai ốc",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-054",
+      "legacyId": 154,
+      "en": "Washer",
+      "vi": "Vòng đệm",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-055",
+      "legacyId": 155,
+      "en": "Set screw",
+      "vi": "Vít hãm",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-056",
+      "legacyId": 156,
+      "en": "Thread",
+      "vi": "Ren",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-057",
+      "legacyId": 157,
+      "en": "Gasket",
+      "vi": "Gioăng đệm",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-058",
+      "legacyId": 158,
+      "en": "O-ring",
+      "vi": "Gioăng chữ O",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-059",
+      "legacyId": 159,
+      "en": "Oil seal",
+      "vi": "Phớt dầu",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-060",
+      "legacyId": 160,
+      "en": "Mechanical seal",
+      "vi": "Phớt cơ khí",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-061",
+      "legacyId": 161,
+      "en": "Sealing jaw",
+      "vi": "Hàm hàn",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-062",
+      "legacyId": 162,
+      "en": "Heating jaw",
+      "vi": "Hàm gia nhiệt",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-063",
+      "legacyId": 163,
+      "en": "Clamping jaw",
+      "vi": "Hàm kẹp",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-064",
+      "legacyId": 164,
+      "en": "Cutting blade",
+      "vi": "Lưỡi dao cắt",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-065",
+      "legacyId": 165,
+      "en": "Knife holder",
+      "vi": "Giá đỡ dao",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-066",
+      "legacyId": 166,
+      "en": "Punch",
+      "vi": "Chày đột",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-067",
+      "legacyId": 167,
+      "en": "Die",
+      "vi": "Cối dập",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-068",
+      "legacyId": 168,
+      "en": "Forming roller",
+      "vi": "Con lăn tạo hình",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-069",
+      "legacyId": 169,
+      "en": "Folding mechanism",
+      "vi": "Cơ cấu gấp",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-070",
+      "legacyId": 170,
+      "en": "Mandrel",
+      "vi": "Trục gá",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-071",
+      "legacyId": 171,
+      "en": "Pneumatic cylinder",
+      "vi": "Xi lanh khí nén",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-072",
+      "legacyId": 172,
+      "en": "Double-acting cylinder",
+      "vi": "Xi lanh tác động kép",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-073",
+      "legacyId": 173,
+      "en": "Single-acting cylinder",
+      "vi": "Xi lanh tác động đơn",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-074",
+      "legacyId": 174,
+      "en": "Piston",
+      "vi": "Pít-tông",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-075",
+      "legacyId": 175,
+      "en": "Piston rod",
+      "vi": "Cần pít-tông",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-076",
+      "legacyId": 176,
+      "en": "Cylinder bore",
+      "vi": "Đường kính lòng xi lanh",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-077",
+      "legacyId": 177,
+      "en": "Solenoid valve",
+      "vi": "Van điện từ",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-078",
+      "legacyId": 178,
+      "en": "Directional control valve",
+      "vi": "Van điều khiển hướng",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-079",
+      "legacyId": 179,
+      "en": "Flow control valve",
+      "vi": "Van điều chỉnh lưu lượng",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-080",
+      "legacyId": 180,
+      "en": "Pressure regulator",
+      "vi": "Van điều áp",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-081",
+      "legacyId": 181,
+      "en": "Pressure gauge",
+      "vi": "Đồng hồ áp suất",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-082",
+      "legacyId": 182,
+      "en": "Air filter",
+      "vi": "Bộ lọc khí",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-083",
+      "legacyId": 183,
+      "en": "Lubricator",
+      "vi": "Bộ tra dầu",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-084",
+      "legacyId": 184,
+      "en": "FRL unit",
+      "vi": "Bộ lọc – điều áp – tra dầu",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-085",
+      "legacyId": 185,
+      "en": "Air supply",
+      "vi": "Nguồn cấp khí",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-086",
+      "legacyId": 186,
+      "en": "Air hose",
+      "vi": "Ống dẫn khí",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-087",
+      "legacyId": 187,
+      "en": "Pneumatic fitting",
+      "vi": "Đầu nối khí nén",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-088",
+      "legacyId": 188,
+      "en": "Quick coupling",
+      "vi": "Khớp nối nhanh",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-089",
+      "legacyId": 189,
+      "en": "Exhaust port",
+      "vi": "Cổng xả khí",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-090",
+      "legacyId": 190,
+      "en": "Vacuum ejector",
+      "vi": "Bộ tạo chân không",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-091",
+      "legacyId": 191,
+      "en": "Suction cup",
+      "vi": "Giác hút chân không",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-092",
+      "legacyId": 192,
+      "en": "Vacuum line",
+      "vi": "Đường chân không",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-093",
+      "legacyId": 193,
+      "en": "Vacuum pressure",
+      "vi": "Áp suất chân không",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-094",
+      "legacyId": 194,
+      "en": "Nozzle",
+      "vi": "Vòi phun",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-095",
+      "legacyId": 195,
+      "en": "Spray nozzle",
+      "vi": "Vòi phun dạng tia",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-096",
+      "legacyId": 196,
+      "en": "Manifold",
+      "vi": "Cụm phân phối",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-097",
+      "legacyId": 197,
+      "en": "Pipe fitting",
+      "vi": "Phụ kiện đường ống",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-098",
+      "legacyId": 198,
+      "en": "Stainless steel pipe",
+      "vi": "Ống thép không gỉ",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-099",
+      "legacyId": 199,
+      "en": "Torque",
+      "vi": "Mô-men xoắn",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-MEC-100",
+      "legacyId": 200,
+      "en": "Mechanical clearance",
+      "vi": "Khe hở cơ khí",
+      "category": "Mechanical"
+    },
+    {
+      "id": "TP-ELE-001",
+      "legacyId": 201,
+      "en": "Electrical system",
+      "vi": "Hệ thống điện",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-002",
+      "legacyId": 202,
+      "en": "Electrical cabinet",
+      "vi": "Tủ điện",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-003",
+      "legacyId": 203,
+      "en": "Control cabinet",
+      "vi": "Tủ điều khiển",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-004",
+      "legacyId": 204,
+      "en": "Distribution board",
+      "vi": "Tủ phân phối điện",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-005",
+      "legacyId": 205,
+      "en": "Power supply",
+      "vi": "Bộ nguồn",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-006",
+      "legacyId": 206,
+      "en": "Switching power supply",
+      "vi": "Bộ nguồn chuyển mạch",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-007",
+      "legacyId": 207,
+      "en": "Power circuit",
+      "vi": "Mạch động lực",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-008",
+      "legacyId": 208,
+      "en": "Control circuit",
+      "vi": "Mạch điều khiển",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-009",
+      "legacyId": 209,
+      "en": "Electrical schematic",
+      "vi": "Sơ đồ điện",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-010",
+      "legacyId": 210,
+      "en": "Wiring diagram",
+      "vi": "Sơ đồ đấu dây",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-011",
+      "legacyId": 211,
+      "en": "Terminal block",
+      "vi": "Cầu đấu dây",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-012",
+      "legacyId": 212,
+      "en": "Terminal strip",
+      "vi": "Dãy cầu đấu",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-013",
+      "legacyId": 213,
+      "en": "Cable",
+      "vi": "Cáp điện",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-014",
+      "legacyId": 214,
+      "en": "Wire",
+      "vi": "Dây điện",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-015",
+      "legacyId": 215,
+      "en": "Cable tray",
+      "vi": "Máng cáp",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-016",
+      "legacyId": 216,
+      "en": "Cable gland",
+      "vi": "Đầu siết cáp",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-017",
+      "legacyId": 217,
+      "en": "Cable duct",
+      "vi": "Máng đi dây",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-018",
+      "legacyId": 218,
+      "en": "Wire ferrule",
+      "vi": "Đầu cos kim",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-019",
+      "legacyId": 219,
+      "en": "Cable lug",
+      "vi": "Đầu cos cáp",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-020",
+      "legacyId": 220,
+      "en": "Connector",
+      "vi": "Đầu nối",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-021",
+      "legacyId": 221,
+      "en": "Plug",
+      "vi": "Phích cắm",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-022",
+      "legacyId": 222,
+      "en": "Socket",
+      "vi": "Ổ cắm",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-023",
+      "legacyId": 223,
+      "en": "Grounding",
+      "vi": "Nối đất",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-024",
+      "legacyId": 224,
+      "en": "Ground wire",
+      "vi": "Dây tiếp địa",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-025",
+      "legacyId": 225,
+      "en": "Shielding",
+      "vi": "Chống nhiễu",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-026",
+      "legacyId": 226,
+      "en": "Shielded cable",
+      "vi": "Cáp chống nhiễu",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-027",
+      "legacyId": 227,
+      "en": "Circuit breaker",
+      "vi": "Aptomat",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-028",
+      "legacyId": 228,
+      "en": "MCB",
+      "vi": "Aptomat tép",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-029",
+      "legacyId": 229,
+      "en": "MCCB",
+      "vi": "Aptomat khối",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-030",
+      "legacyId": 230,
+      "en": "RCD",
+      "vi": "Thiết bị chống dòng rò",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-031",
+      "legacyId": 231,
+      "en": "Fuse",
+      "vi": "Cầu chì",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-032",
+      "legacyId": 232,
+      "en": "Fuse holder",
+      "vi": "Đế cầu chì",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-033",
+      "legacyId": 233,
+      "en": "Contactor",
+      "vi": "Khởi động từ",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-034",
+      "legacyId": 234,
+      "en": "Auxiliary contact",
+      "vi": "Tiếp điểm phụ",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-035",
+      "legacyId": 235,
+      "en": "Overload relay",
+      "vi": "Rơ-le nhiệt",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-036",
+      "legacyId": 236,
+      "en": "Thermal protection",
+      "vi": "Bảo vệ nhiệt",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-037",
+      "legacyId": 237,
+      "en": "Relay",
+      "vi": "Rơ-le",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-038",
+      "legacyId": 238,
+      "en": "Intermediate relay",
+      "vi": "Rơ-le trung gian",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-039",
+      "legacyId": 239,
+      "en": "Safety relay",
+      "vi": "Rơ-le an toàn",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-040",
+      "legacyId": 240,
+      "en": "Timer relay",
+      "vi": "Rơ-le thời gian",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-041",
+      "legacyId": 241,
+      "en": "Push button",
+      "vi": "Nút nhấn",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-042",
+      "legacyId": 242,
+      "en": "Emergency stop button",
+      "vi": "Nút dừng khẩn cấp",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-043",
+      "legacyId": 243,
+      "en": "Selector switch",
+      "vi": "Công tắc xoay chọn chế độ",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-044",
+      "legacyId": 244,
+      "en": "Limit switch",
+      "vi": "Công tắc hành trình",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-045",
+      "legacyId": 245,
+      "en": "Toggle switch",
+      "vi": "Công tắc gạt",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-046",
+      "legacyId": 246,
+      "en": "Indicator lamp",
+      "vi": "Đèn báo",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-047",
+      "legacyId": 247,
+      "en": "Pilot light",
+      "vi": "Đèn tín hiệu",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-048",
+      "legacyId": 248,
+      "en": "Buzzer",
+      "vi": "Còi báo",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-049",
+      "legacyId": 249,
+      "en": "Alarm lamp",
+      "vi": "Đèn cảnh báo",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-050",
+      "legacyId": 250,
+      "en": "Electric motor",
+      "vi": "Động cơ điện",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-051",
+      "legacyId": 251,
+      "en": "AC motor",
+      "vi": "Động cơ xoay chiều",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-052",
+      "legacyId": 252,
+      "en": "DC motor",
+      "vi": "Động cơ một chiều",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-053",
+      "legacyId": 253,
+      "en": "Servo motor",
+      "vi": "Động cơ servo",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-054",
+      "legacyId": 254,
+      "en": "Stepper motor",
+      "vi": "Động cơ bước",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-055",
+      "legacyId": 255,
+      "en": "Induction motor",
+      "vi": "Động cơ không đồng bộ",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-056",
+      "legacyId": 256,
+      "en": "Synchronous motor",
+      "vi": "Động cơ đồng bộ",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-057",
+      "legacyId": 257,
+      "en": "Motor starter",
+      "vi": "Bộ khởi động động cơ",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-058",
+      "legacyId": 258,
+      "en": "Variable frequency drive (VFD)",
+      "vi": "Biến tần",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-059",
+      "legacyId": 259,
+      "en": "Servo drive",
+      "vi": "Bộ điều khiển servo",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-060",
+      "legacyId": 260,
+      "en": "Encoder",
+      "vi": "Bộ mã hóa vị trí",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-061",
+      "legacyId": 261,
+      "en": "Incremental encoder",
+      "vi": "Encoder tương đối",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-062",
+      "legacyId": 262,
+      "en": "Absolute encoder",
+      "vi": "Encoder tuyệt đối",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-063",
+      "legacyId": 263,
+      "en": "Resolver",
+      "vi": "Cảm biến góc dạng resolver",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-064",
+      "legacyId": 264,
+      "en": "Proximity sensor",
+      "vi": "Cảm biến tiệm cận",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-065",
+      "legacyId": 265,
+      "en": "Inductive sensor",
+      "vi": "Cảm biến cảm ứng",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-066",
+      "legacyId": 266,
+      "en": "Capacitive sensor",
+      "vi": "Cảm biến điện dung",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-067",
+      "legacyId": 267,
+      "en": "Photoelectric sensor",
+      "vi": "Cảm biến quang",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-068",
+      "legacyId": 268,
+      "en": "Through-beam sensor",
+      "vi": "Cảm biến quang thu phát độc lập",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-069",
+      "legacyId": 269,
+      "en": "Retro-reflective sensor",
+      "vi": "Cảm biến quang phản xạ gương",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-070",
+      "legacyId": 270,
+      "en": "Diffuse sensor",
+      "vi": "Cảm biến quang phản xạ khuếch tán",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-071",
+      "legacyId": 271,
+      "en": "Fiber optic sensor",
+      "vi": "Cảm biến sợi quang",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-072",
+      "legacyId": 272,
+      "en": "Temperature sensor",
+      "vi": "Cảm biến nhiệt độ",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-073",
+      "legacyId": 273,
+      "en": "Thermocouple",
+      "vi": "Cặp nhiệt điện",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-074",
+      "legacyId": 274,
+      "en": "RTD",
+      "vi": "Cảm biến nhiệt điện trở",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-075",
+      "legacyId": 275,
+      "en": "Pressure transmitter",
+      "vi": "Bộ truyền tín hiệu áp suất",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-076",
+      "legacyId": 276,
+      "en": "Pressure switch",
+      "vi": "Công tắc áp suất",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-077",
+      "legacyId": 277,
+      "en": "Flow sensor",
+      "vi": "Cảm biến lưu lượng",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-078",
+      "legacyId": 278,
+      "en": "Flow meter",
+      "vi": "Đồng hồ đo lưu lượng",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-079",
+      "legacyId": 279,
+      "en": "Level sensor",
+      "vi": "Cảm biến mức",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-080",
+      "legacyId": 280,
+      "en": "Level switch",
+      "vi": "Công tắc mức",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-081",
+      "legacyId": 281,
+      "en": "Load cell",
+      "vi": "Cảm biến lực",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-082",
+      "legacyId": 282,
+      "en": "Strain gauge",
+      "vi": "Điện trở đo biến dạng",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-083",
+      "legacyId": 283,
+      "en": "Displacement sensor",
+      "vi": "Cảm biến dịch chuyển",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-084",
+      "legacyId": 284,
+      "en": "Position sensor",
+      "vi": "Cảm biến vị trí",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-085",
+      "legacyId": 285,
+      "en": "Vibration sensor",
+      "vi": "Cảm biến rung",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-086",
+      "legacyId": 286,
+      "en": "Current transformer",
+      "vi": "Biến dòng",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-087",
+      "legacyId": 287,
+      "en": "Voltage transformer",
+      "vi": "Biến điện áp",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-088",
+      "legacyId": 288,
+      "en": "Ammeter",
+      "vi": "Ampe kế",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-089",
+      "legacyId": 289,
+      "en": "Voltmeter",
+      "vi": "Vôn kế",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-090",
+      "legacyId": 290,
+      "en": "Multimeter",
+      "vi": "Đồng hồ vạn năng",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-091",
+      "legacyId": 291,
+      "en": "Clamp meter",
+      "vi": "Ampe kìm",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-092",
+      "legacyId": 292,
+      "en": "Insulation resistance tester",
+      "vi": "Máy đo điện trở cách điện",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-093",
+      "legacyId": 293,
+      "en": "Electrical resistance",
+      "vi": "Điện trở",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-094",
+      "legacyId": 294,
+      "en": "Capacitance",
+      "vi": "Điện dung",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-095",
+      "legacyId": 295,
+      "en": "Inductance",
+      "vi": "Điện cảm",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-096",
+      "legacyId": 296,
+      "en": "Voltage drop",
+      "vi": "Sụt áp",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-097",
+      "legacyId": 297,
+      "en": "Short circuit",
+      "vi": "Ngắn mạch",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-098",
+      "legacyId": 298,
+      "en": "Open circuit",
+      "vi": "Hở mạch",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-099",
+      "legacyId": 299,
+      "en": "Electrical interference",
+      "vi": "Nhiễu điện",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-ELE-100",
+      "legacyId": 300,
+      "en": "Electrical fault",
+      "vi": "Sự cố điện",
+      "category": "Electrical"
+    },
+    {
+      "id": "TP-CTL-001",
+      "legacyId": 301,
+      "en": "Automation system",
+      "vi": "Hệ thống tự động hóa",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-002",
+      "legacyId": 302,
+      "en": "Control system",
+      "vi": "Hệ thống điều khiển",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-003",
+      "legacyId": 303,
+      "en": "Programmable Logic Controller (PLC)",
+      "vi": "Bộ điều khiển lập trình",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-004",
+      "legacyId": 304,
+      "en": "Central processing unit (CPU)",
+      "vi": "Bộ xử lý trung tâm",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-005",
+      "legacyId": 305,
+      "en": "Digital input (DI)",
+      "vi": "Ngõ vào số",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-006",
+      "legacyId": 306,
+      "en": "Digital output (DO)",
+      "vi": "Ngõ ra số",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-007",
+      "legacyId": 307,
+      "en": "Analog input (AI)",
+      "vi": "Ngõ vào tương tự",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-008",
+      "legacyId": 308,
+      "en": "Analog output (AO)",
+      "vi": "Ngõ ra tương tự",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-009",
+      "legacyId": 309,
+      "en": "Input module",
+      "vi": "Module đầu vào",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-010",
+      "legacyId": 310,
+      "en": "Output module",
+      "vi": "Module đầu ra",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-011",
+      "legacyId": 311,
+      "en": "Expansion module",
+      "vi": "Module mở rộng",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-012",
+      "legacyId": 312,
+      "en": "Remote I/O",
+      "vi": "I/O từ xa",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-013",
+      "legacyId": 313,
+      "en": "Distributed I/O",
+      "vi": "I/O phân tán",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-014",
+      "legacyId": 314,
+      "en": "Human Machine Interface (HMI)",
+      "vi": "Giao diện người – máy",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-015",
+      "legacyId": 315,
+      "en": "Supervisory Control and Data Acquisition (SCADA)",
+      "vi": "Hệ thống giám sát và thu thập dữ liệu",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-016",
+      "legacyId": 316,
+      "en": "Programmable terminal",
+      "vi": "Màn hình lập trình",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-017",
+      "legacyId": 317,
+      "en": "Touchscreen",
+      "vi": "Màn hình cảm ứng",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-018",
+      "legacyId": 318,
+      "en": "Control panel",
+      "vi": "Bảng điều khiển",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-019",
+      "legacyId": 319,
+      "en": "Operator interface",
+      "vi": "Giao diện người vận hành",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-020",
+      "legacyId": 320,
+      "en": "Control program",
+      "vi": "Chương trình điều khiển",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-021",
+      "legacyId": 321,
+      "en": "Ladder diagram",
+      "vi": "Sơ đồ thang",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-022",
+      "legacyId": 322,
+      "en": "Function Block Diagram (FBD)",
+      "vi": "Sơ đồ khối chức năng",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-023",
+      "legacyId": 323,
+      "en": "Structured Text (ST)",
+      "vi": "Ngôn ngữ văn bản cấu trúc",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-024",
+      "legacyId": 324,
+      "en": "Instruction List (IL)",
+      "vi": "Ngôn ngữ danh sách lệnh",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-025",
+      "legacyId": 325,
+      "en": "Sequential Function Chart (SFC)",
+      "vi": "Biểu đồ chức năng tuần tự",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-026",
+      "legacyId": 326,
+      "en": "Logic instruction",
+      "vi": "Lệnh logic",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-027",
+      "legacyId": 327,
+      "en": "Boolean logic",
+      "vi": "Logic Boolean",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-028",
+      "legacyId": 328,
+      "en": "AND logic",
+      "vi": "Logic AND",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-029",
+      "legacyId": 329,
+      "en": "OR logic",
+      "vi": "Logic OR",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-030",
+      "legacyId": 330,
+      "en": "NOT logic",
+      "vi": "Logic NOT",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-031",
+      "legacyId": 331,
+      "en": "Rising edge",
+      "vi": "Cạnh lên",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-032",
+      "legacyId": 332,
+      "en": "Falling edge",
+      "vi": "Cạnh xuống",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-033",
+      "legacyId": 333,
+      "en": "Positive edge detection",
+      "vi": "Phát hiện cạnh lên",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-034",
+      "legacyId": 334,
+      "en": "Negative edge detection",
+      "vi": "Phát hiện cạnh xuống",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-035",
+      "legacyId": 335,
+      "en": "Timer",
+      "vi": "Bộ định thời",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-036",
+      "legacyId": 336,
+      "en": "On-delay timer",
+      "vi": "Bộ định thời trễ mở",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-037",
+      "legacyId": 337,
+      "en": "Off-delay timer",
+      "vi": "Bộ định thời trễ tắt",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-038",
+      "legacyId": 338,
+      "en": "Counter",
+      "vi": "Bộ đếm",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-039",
+      "legacyId": 339,
+      "en": "Up counter",
+      "vi": "Bộ đếm lên",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-040",
+      "legacyId": 340,
+      "en": "Down counter",
+      "vi": "Bộ đếm xuống",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-041",
+      "legacyId": 341,
+      "en": "Memory bit",
+      "vi": "Bit nhớ",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-042",
+      "legacyId": 342,
+      "en": "Internal relay",
+      "vi": "Rơ-le nội",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-043",
+      "legacyId": 343,
+      "en": "Data register",
+      "vi": "Thanh ghi dữ liệu",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-044",
+      "legacyId": 344,
+      "en": "Set and reset",
+      "vi": "Thiết lập và xóa",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-045",
+      "legacyId": 345,
+      "en": "Latching",
+      "vi": "Tự giữ",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-046",
+      "legacyId": 346,
+      "en": "Interlock",
+      "vi": "Liên động",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-047",
+      "legacyId": 347,
+      "en": "Safety interlock",
+      "vi": "Liên động an toàn",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-048",
+      "legacyId": 348,
+      "en": "Permissive condition",
+      "vi": "Điều kiện cho phép",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-049",
+      "legacyId": 349,
+      "en": "Enable signal",
+      "vi": "Tín hiệu cho phép",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-050",
+      "legacyId": 350,
+      "en": "Trigger signal",
+      "vi": "Tín hiệu kích hoạt",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-051",
+      "legacyId": 351,
+      "en": "Feedback signal",
+      "vi": "Tín hiệu phản hồi",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-052",
+      "legacyId": 352,
+      "en": "Command signal",
+      "vi": "Tín hiệu lệnh",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-053",
+      "legacyId": 353,
+      "en": "Reference signal",
+      "vi": "Tín hiệu tham chiếu",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-054",
+      "legacyId": 354,
+      "en": "Setpoint (SP)",
+      "vi": "Giá trị đặt",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-055",
+      "legacyId": 355,
+      "en": "Process variable (PV)",
+      "vi": "Giá trị quá trình",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-056",
+      "legacyId": 356,
+      "en": "Manipulated variable (MV)",
+      "vi": "Biến điều khiển",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-057",
+      "legacyId": 357,
+      "en": "Actual value",
+      "vi": "Giá trị thực tế",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-058",
+      "legacyId": 358,
+      "en": "Target value",
+      "vi": "Giá trị mục tiêu",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-059",
+      "legacyId": 359,
+      "en": "Threshold",
+      "vi": "Ngưỡng",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-060",
+      "legacyId": 360,
+      "en": "Hysteresis",
+      "vi": "Độ trễ chuyển mạch",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-061",
+      "legacyId": 361,
+      "en": "PID controller",
+      "vi": "Bộ điều khiển PID",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-062",
+      "legacyId": 362,
+      "en": "Proportional control",
+      "vi": "Điều khiển tỷ lệ",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-063",
+      "legacyId": 363,
+      "en": "Integral control",
+      "vi": "Điều khiển tích phân",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-064",
+      "legacyId": 364,
+      "en": "Derivative control",
+      "vi": "Điều khiển vi phân",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-065",
+      "legacyId": 365,
+      "en": "Closed-loop control",
+      "vi": "Điều khiển vòng kín",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-066",
+      "legacyId": 366,
+      "en": "Open-loop control",
+      "vi": "Điều khiển vòng hở",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-067",
+      "legacyId": 367,
+      "en": "Feedback control",
+      "vi": "Điều khiển phản hồi",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-068",
+      "legacyId": 368,
+      "en": "Position control",
+      "vi": "Điều khiển vị trí",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-069",
+      "legacyId": 369,
+      "en": "Speed control",
+      "vi": "Điều khiển tốc độ",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-070",
+      "legacyId": 370,
+      "en": "Torque control",
+      "vi": "Điều khiển mô-men xoắn",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-071",
+      "legacyId": 371,
+      "en": "Motion control",
+      "vi": "Điều khiển chuyển động",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-072",
+      "legacyId": 372,
+      "en": "Synchronization",
+      "vi": "Đồng bộ hóa",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-073",
+      "legacyId": 373,
+      "en": "Master-slave control",
+      "vi": "Điều khiển chủ – tớ",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-074",
+      "legacyId": 374,
+      "en": "Electronic cam",
+      "vi": "Cam điện tử",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-075",
+      "legacyId": 375,
+      "en": "Positioning",
+      "vi": "Định vị",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-076",
+      "legacyId": 376,
+      "en": "Homing",
+      "vi": "Tìm gốc tọa độ",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-077",
+      "legacyId": 377,
+      "en": "Zero position",
+      "vi": "Vị trí gốc",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-078",
+      "legacyId": 378,
+      "en": "Reference position",
+      "vi": "Vị trí tham chiếu",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-079",
+      "legacyId": 379,
+      "en": "Travel limit",
+      "vi": "Giới hạn hành trình",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-080",
+      "legacyId": 380,
+      "en": "Speed profile",
+      "vi": "Biểu đồ tốc độ",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-081",
+      "legacyId": 381,
+      "en": "Acceleration",
+      "vi": "Gia tốc",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-082",
+      "legacyId": 382,
+      "en": "Deceleration",
+      "vi": "Giảm tốc",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-083",
+      "legacyId": 383,
+      "en": "Ramp-up time",
+      "vi": "Thời gian tăng tốc",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-084",
+      "legacyId": 384,
+      "en": "Ramp-down time",
+      "vi": "Thời gian giảm tốc",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-085",
+      "legacyId": 385,
+      "en": "Sequence control",
+      "vi": "Điều khiển tuần tự",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-086",
+      "legacyId": 386,
+      "en": "Step sequence",
+      "vi": "Trình tự các bước",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-087",
+      "legacyId": 387,
+      "en": "Transition condition",
+      "vi": "Điều kiện chuyển bước",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-088",
+      "legacyId": 388,
+      "en": "State machine",
+      "vi": "Máy trạng thái",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-089",
+      "legacyId": 389,
+      "en": "Operating sequence",
+      "vi": "Trình tự vận hành",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-090",
+      "legacyId": 390,
+      "en": "Startup sequence",
+      "vi": "Trình tự khởi động",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-091",
+      "legacyId": 391,
+      "en": "Shutdown sequence",
+      "vi": "Trình tự dừng máy",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-092",
+      "legacyId": 392,
+      "en": "Fault detection",
+      "vi": "Phát hiện lỗi",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-093",
+      "legacyId": 393,
+      "en": "Fault diagnosis",
+      "vi": "Chẩn đoán lỗi",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-094",
+      "legacyId": 394,
+      "en": "Alarm handling",
+      "vi": "Xử lý cảnh báo",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-095",
+      "legacyId": 395,
+      "en": "Alarm history",
+      "vi": "Lịch sử cảnh báo",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-096",
+      "legacyId": 396,
+      "en": "Reset command",
+      "vi": "Lệnh đặt lại",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-097",
+      "legacyId": 397,
+      "en": "Acknowledgement",
+      "vi": "Xác nhận cảnh báo",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-098",
+      "legacyId": 398,
+      "en": "Communication protocol",
+      "vi": "Giao thức truyền thông",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-099",
+      "legacyId": 399,
+      "en": "PROFINET",
+      "vi": "Giao thức truyền thông công nghiệp PROFINET",
+      "category": "Control"
+    },
+    {
+      "id": "TP-CTL-100",
+      "legacyId": 400,
+      "en": "PROFIBUS",
+      "vi": "Giao thức truyền thông công nghiệp PROFIBUS",
+      "category": "Control"
+    }
+  ]
+}
